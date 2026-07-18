@@ -1,0 +1,45 @@
+<svg width="1280" height="300" viewBox="0 0 1280 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AristAI Prompt Library — curated AI prompts for higher education">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.85" cy="0.15" r="0.6">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.1" cy="0.95" r="0.55">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="300" rx="16" fill="#0A0E14"/>
+  <rect width="1280" height="300" rx="16" fill="url(#glowA)"/>
+  <rect width="1280" height="300" rx="16" fill="url(#glowB)"/>
+
+  <g fill="#1E293B">
+    <circle cx="1060" cy="70" r="3"/><circle cx="1100" cy="70" r="3"/><circle cx="1140" cy="70" r="3"/><circle cx="1180" cy="70" r="3"/>
+    <circle cx="1060" cy="110" r="3"/><circle cx="1100" cy="110" r="3"/><circle cx="1140" cy="110" r="3"/><circle cx="1180" cy="110" r="3"/>
+    <circle cx="1060" cy="150" r="3"/><circle cx="1100" cy="150" r="3"/><circle cx="1140" cy="150" r="3"/><circle cx="1180" cy="150" r="3"/>
+  </g>
+
+  <text x="64" y="76" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="url(#accent)">AristAI</text>
+  <text x="162" y="76" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#64748B">· Education Suite</text>
+
+  <text x="62" y="152" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#F8FAFC">Prompt Library</text>
+  <text x="64" y="196" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#94A3B8">Curated, classroom-ready AI prompts for teaching, research, and campus operations</text>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="600">
+    <rect x="64" y="226" width="132" height="34" rx="17" fill="#111827" stroke="#312E81"/>
+    <text x="130" y="248" text-anchor="middle" fill="#A5B4FC">Faculty</text>
+    <rect x="208" y="226" width="176" height="34" rx="17" fill="#111827" stroke="#312E81"/>
+    <text x="296" y="248" text-anchor="middle" fill="#A5B4FC">Grad Students</text>
+    <rect x="396" y="226" width="230" height="34" rx="17" fill="#111827" stroke="#134E4A"/>
+    <text x="511" y="248" text-anchor="middle" fill="#5EEAD4">Instructional Designers</text>
+    <rect x="638" y="226" width="150" height="34" rx="17" fill="#111827" stroke="#134E4A"/>
+    <text x="713" y="248" text-anchor="middle" fill="#5EEAD4">Campus IT</text>
+  </g>
+
+  <rect x="64" y="284" width="380" height="4" rx="2" fill="url(#accent)"/>
+</svg>
