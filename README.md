@@ -1,3 +1,59 @@
+<div align="center">
+
+# 🚀 best-prompts
+
+**A curated arsenal of battle-tested AI prompts — copy, paste, and get expert-level output.**
+
+*From thesis writing to production code, from system diagrams to viral articles — 29 scenario-specific prompts engineered with careful constraints, not generic templates.*
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](../../pulls) [![Prompts](https://img.shields.io/badge/prompts-29-orange.svg)](prompts/)
+
+</div>
+
+---
+
+## ✨ Why this repo?
+
+In the age of vibe coding, **the quality of your prompt determines the quality of AI's output**. Most "universal" prompts are either too generic or too scattered. Every prompt here is:
+
+- 🎯 **Scenario-specific** — designed for one job and tuned for it, with output format and constraints built in
+- 📋 **Copy-and-go** — paste straight into ChatGPT, Claude, Gemini, Cursor, or any agent — no endless tweaking
+- 🗂️ **Organized by use case** — find what you need by task, not by digging through files
+- ✅ **Verified on frontier models** — works great on Claude, GPT, Gemini and coding agents
+
+## 🧭 What's inside
+
+| Category | What you get |
+| --- | --- |
+| 🎓 **Thesis writing** | Full degree-thesis workflow: outline review, chapter drafting, polishing, references, anti-AIGC, CN↔EN translation |
+| 📊 **Diagrams as code** | Draw.io / Excalidraw generators: system architecture, E-R, tech stack, data structures, style migration |
+| 💻 **5-step dev workflow** | Requirement → Design → Implementation → Review → Bug fix, one prompt per step |
+| ✍️ **Content creation** | WeChat/blog article writing with 9 writing styles + style extraction, covers and illustrations |
+| 📁 **Docs & resume** | Project overviews, key-issue digests, resume-ready project descriptions |
+| 📈 **Reports** | Weekly reports, work reports, retrospectives, intros — from fragmented notes to polished docs |
+| 🎨 **Frontend design** | Production-grade UI code with a strong aesthetic stance — no "generic AI look" |
+| 🔧 **Tools & skills** | Multi-language code review, Skill creation, Skill ↔ Prompt conversion |
+
+## ⚡ Quick start
+
+1. Open the `.md` file for your scenario in [`prompts/`](prompts/)
+2. Copy the full prompt (from `# Role` to `# Input`, code blocks included)
+3. Paste it into your AI chat
+4. Fill in your content at the `[在此处填写]` placeholders — done
+
+> 💡 Using Cursor, Claude Code, or another agent? Most scenarios also exist as auto-invoked **Skills**: [best-skills](https://github.com/xstongxue/best-skills)
+
+## 🙏 Credits
+
+Forked from [xstongxue/best-prompts](https://github.com/xstongxue/best-prompts) — all credit to the original author. Licensed under [Apache 2.0](LICENSE).
+
+---
+
+<br>
+
+# 中文完整目录 · Full Catalog (中文)
+
+
 # best-prompts🚀
 
 通用高质量 prompt 合集，可直接复制到聊天框使用。
